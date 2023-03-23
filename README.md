@@ -1,3 +1,8 @@
+# Different ways to combine CNN and LSTM networks for time series classification tasks
+Combine CNN and LSTM using PyTorch!
+
+Source for [HERE](https://medium.com/@mixanyy/different-ways-to-combine-cnn-and-lstm-networks-for-time-series-classification-tasks-b03fc37e91b6)
+
 # This repository contains my work on time-series classification, clustering, and prediction.
 
 ## Time-Series Classification
